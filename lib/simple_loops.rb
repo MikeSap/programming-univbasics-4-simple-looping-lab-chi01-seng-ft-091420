@@ -30,5 +30,6 @@ def loop_message_n_times (message, number)
       returns.push(array[i].to_s)
       i +=1
     end
+    returns
   end
   
